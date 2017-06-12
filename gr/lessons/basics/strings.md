@@ -1,10 +1,6 @@
 ---
 version: 1.1.0
-layout: page
 title: Αλφαριθμητικά
-category: basics
-order: 14
-lang: gr
 ---
 
 Αλφαριθμητικά, Χαρακτήρες Λιστών, Γραφήματα και Κωδικοσημεία.
